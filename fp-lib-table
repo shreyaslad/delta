@@ -1,5 +1,9 @@
 (fp_lib_table
   (lib (name "RP2040_minimal")(type "KiCad")(uri "/Users/qoobdev/Documents/development/ee/libraries/RP2040/RP2040_minimal.pretty")(options "")(descr ""))
   (lib (name "NCP160AFCS330T2G")(type "KiCad")(uri "${KIPRJMOD}/libraries/NCP160AFCS330T2G")(options "")(descr ""))
-  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_ESP32-S2-MINI-1-N4/footprints.pretty")(options "")(descr ""))
+  (lib (name "ul_ESP32-S2-MINI-1-N4")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_ESP32-S2-MINI-1-N4/footprints.pretty")(options "")(descr ""))
+  (lib (name "FT231XS-R")(type "KiCad")(uri "${KIPRJMOD}/libraries/FT231XS-R")(options "")(descr ""))
+  (lib (name "FXAS21002CQR1")(type "KiCad")(uri "${KIPRJMOD}/libraries/FXAS21002CQR1")(options "")(descr ""))
+  (lib (name "ul_LD1117AS33TR")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_LD1117AS33TR")(options "")(descr ""))
+  (lib (name "LIS2HH12TR")(type "KiCad")(uri "${KIPRJMOD}/libraries/LIS2HH12TR")(options "")(descr ""))
 )
