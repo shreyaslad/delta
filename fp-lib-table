@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "RP2040_minimal")(type "KiCad")(uri "/Users/qoobdev/Documents/development/ee/libraries/RP2040/RP2040_minimal.pretty")(options "")(descr ""))
+  (lib (name "NCP160AFCS330T2G")(type "KiCad")(uri "${KIPRJMOD}/libraries/NCP160AFCS330T2G")(options "")(descr ""))
+  (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_ESP32-S2-MINI-1-N4/footprints.pretty")(options "")(descr ""))
+)

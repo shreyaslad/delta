@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name "MCU_RaspberryPi_RP2040")(type "Legacy")(uri "/Users/qoobdev/Documents/development/ee/libraries/RP2040/MCU_RaspberryPi_RP2040.lib")(options "")(descr "")(disabled))
+  (lib (name "ul_LD1117AS33TR (LDO)")(type "Legacy")(uri "${KIPRJMOD}/libraries/ul_LD1117AS33TR/ul_LD1117AS33TR.lib")(options "")(descr "https://www.digikey.com/en/products/detail/stmicroelectronics/LD1117AS33TR/585752"))
+  (lib (name "ul_ESP32-S2-MINI-1-N4")(type "Legacy")(uri "${KIPRJMOD}/libraries/ul_ESP32-S2-MINI-1-N4/ul_ESP32-S2-MINI-1-N4.lib")(options "")(descr "https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S2-MINI-1-N4/13180194"))
+  (lib (name "LIS2HH12TR (Accel)")(type "Legacy")(uri "${KIPRJMOD}/libraries/LIS2HH12TR/LIS2HH12TR.lib")(options "")(descr "https://www.digikey.com/en/products/detail/stmicroelectronics/LIS2HH12TR/5043058"))
+  (lib (name "FXAS21002CQR1 (Gyro)")(type "Legacy")(uri "${KIPRJMOD}/libraries/FXAS21002CQR1/FXAS21002CQR1.lib")(options "")(descr "https://www.digikey.com/en/products/detail/nxp-usa-inc/FXAS21002CQR1/5114591"))
+  (lib (name "FT231XS-R (USBUART)")(type "Legacy")(uri "${KIPRJMOD}/libraries/FT231XS-R/FT231XS-R.lib")(options "")(descr "https://www.digikey.com/en/products/detail/ftdi-future-technology-devices-international-ltd/FT231XS-R/3029139"))
+)
