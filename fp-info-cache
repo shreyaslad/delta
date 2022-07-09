@@ -1,4 +1,25 @@
-20885016448894536
+20894956193788241
+1909763 (SMA connector)
+ANT-SMD_1909763-1
+
+
+0
+3
+2
+5033981892
+MOLEX_503398-1892
+
+
+0
+14
+14
+ATGM336H
+GPSM-SMD_ATGM336H-TR
+
+
+0
+18
+18
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56510,6 +56531,13 @@ solder jumper open
 0
 5
 3
+K2-1817UQ-C4SW-01
+KEY-SMD_2P-L6.0-W6.0-P6.00
+
+
+0
+2
+2
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -60136,6 +60164,13 @@ Mounting 4.5mm 9774100982
 0
 8
 1
+NT3H1101W0FHKH
+IC_NT3H1101W0FHKH
+
+
+0
+8
+8
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -80093,6 +80128,13 @@ SOT-23-5_L3.0-W1.7-P0.95-LS2.8-BL
 0
 5
 5
+TYPE-C-31-M-12
+HRO_TYPE-C-31-M-12
+
+
+0
+16
+11
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf
