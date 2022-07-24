@@ -1,3 +1,6 @@
 delta-backups
+out
+
+*.csv
 
 .DS_Store

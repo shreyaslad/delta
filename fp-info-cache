@@ -1,4 +1,4 @@
-20894956193788241
+20889996112888969
 1909763 (SMA connector)
 ANT-SMD_1909763-1
 
@@ -12,7 +12,7 @@ MOLEX_503398-1892
 
 0
 14
-14
+9
 ATGM336H
 GPSM-SMD_ATGM336H-TR
 
@@ -2386,6 +2386,13 @@ speaker CUI
 0
 2
 2
+CP2102N-A02-GQFN24R
+QFN50P400X400X80-25N
+
+
+0
+25
+25
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -52079,13 +52086,6 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
-FT231XS-R
-SOP63P599X175-20N
-
-
-0
-20
-20
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -60164,13 +60164,6 @@ Mounting 4.5mm 9774100982
 0
 8
 1
-NT3H1101W0FHKH
-IC_NT3H1101W0FHKH
-
-
-0
-8
-8
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -75753,13 +75746,6 @@ Potentiometer vertical Vishay T73YP
 0
 3
 3
-QMC7983
-QMC7983
-
-
-0
-8
-8
 QST_QMI8610
 LGA-16_L3.3-W3.3-P0.50-BL-EP0.5
 
@@ -78651,13 +78637,6 @@ rotary encoder
 0
 5
 4
-STS_30_DIS
-DFN-8_L2.5-W2.5-P0.50-BL-EP
-
-
-0
-9
-9
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
