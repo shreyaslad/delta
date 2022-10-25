@@ -1,0 +1,13 @@
+(sym_lib_table
+  (lib (name "QST_QMI8610 (Accel{slash}Gyro)")(type "KiCad")(uri "${KIPRJMOD}/libraries/QST_QMI8610/QST_QMI8610.kicad_sym")(options "")(descr "https://lcsc.com/product-detail/Motion-Sensors-Accelerometers_QST-QMI8610_C462704.html"))
+  (lib (name "5033981892 (MicroSD Slot)")(type "KiCad")(uri "${KIPRJMOD}/libraries/5033981892/5033981892.kicad_sym")(options "")(descr "https://lcsc.com/product-detail/SD-Card-Connectors_MOLEX-5033981892_C428492.html"))
+  (lib (name "ATGM336H (GPS)")(type "KiCad")(uri "${KIPRJMOD}/libraries/ATGM336H/ATGM336H.kicad_sym")(options "")(descr "https://www.lcsc.com/product-detail/Satellite-Positioning-Modules_ZHONGKEWEI-ATGM336H-5N31_C90770.html")(disabled))
+  (lib (name "TYPE-C-31-M-12 (USB-C)")(type "Legacy")(uri "${KIPRJMOD}/libraries/TYPE-C-31-M-12/TYPE-C-31-M-12.lib")(options "")(descr "https://lcsc.com/product-detail/USB-Connectors_Korean-Hroparts-Elec-TYPE-C-31-M-12_C165948.html"))
+  (lib (name "CP2102-GMR (USB to UART)")(type "KiCad")(uri "${KIPRJMOD}/libraries/CP2102-GMR/CP2102-GMR.kicad_sym")(options "")(descr "")(disabled))
+  (lib (name "RP2040")(type "Legacy")(uri "${KIPRJMOD}/libraries/RP2040/RP2040.lib")(options "")(descr "https://www.digikey.com/en/products/detail/raspberry-pi/SC0914-7/14306009"))
+  (lib (name "NN01-102 (Antenna)")(type "Legacy")(uri "${KIPRJMOD}/libraries/NN01-102/NN01-102.lib")(options "")(descr "https://www.digikey.com/en/products/detail/ignion/NN01-102/10108238"))
+  (lib (name "TJA1441DT-0Z (CAN Transceiver)")(type "KiCad")(uri "${KIPRJMOD}/libraries/TJA1441DT-0Z/TJA1441DT-0Z.kicad_sym")(options "")(descr "https://www.digikey.com/en/products/detail/nxp-usa-inc/TJA1441DT-0Z/13691172"))
+  (lib (name "ESP32-S3R8V")(type "Legacy")(uri "${KIPRJMOD}/libraries/ESP32-S3R8V/ESP32-S3R8V.lib")(options "")(descr "https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3R8V/15822452"))
+  (lib (name "PI4ULS5V202UEX (Level Shifter)")(type "KiCad")(uri "${KIPRJMOD}/libraries/PI4ULS5V202UEX.kicad_sym")(options "")(descr "https://www.digikey.com/en/products/detail/diodes-incorporated/PI4ULS5V202UEX/6237252"))
+  (lib (name "SS210 (Schottky Diode)")(type "KiCad")(uri "${KIPRJMOD}/libraries/SS210/SS210.kicad_sym")(options "")(descr ""))
+)

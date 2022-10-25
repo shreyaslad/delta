@@ -1,6 +1,6 @@
 delta-backups
-deltav2-out
-out
+*-out
+*-out.zip
 
 *.csv
 
