@@ -1,6 +1,10 @@
+# PCB
+
 delta-backups
 *-out
 *-out.zip
+
+libraries/*/*.htm
 
 *.csv
 
