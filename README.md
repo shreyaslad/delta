@@ -5,7 +5,7 @@
     <img src="./docs/deltav4-back.png" width=323>
 </p>
 
-Delta is a minature, custom-made board that aims to control vehicles by connecting to the Onboard Diagnostics (OBD-II) port, streaming real-time onboard sensor data such as:
+Delta is a minature, custom-made board that aims to remotely control vehicles by connecting to the Onboard Diagnostics (OBD-II) port, streaming real-time onboard sensor data such as:
 
 - Speed
 - Acceleration
